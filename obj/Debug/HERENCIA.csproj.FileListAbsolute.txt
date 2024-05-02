@@ -1,0 +1,5 @@
+C:\Users\LICENCIATURAS\Downloads\PROGRAM\Kimberly093\Herencia_ID22127\obj\Debug\HERENCIA.csproj.AssemblyReference.cache
+C:\Users\LICENCIATURAS\Downloads\PROGRAM\Kimberly093\Herencia_ID22127\obj\Debug\HERENCIA.Form1.resources
+C:\Users\LICENCIATURAS\Downloads\PROGRAM\Kimberly093\Herencia_ID22127\obj\Debug\HERENCIA.Properties.Resources.resources
+C:\Users\LICENCIATURAS\Downloads\PROGRAM\Kimberly093\Herencia_ID22127\obj\Debug\HERENCIA.csproj.GenerateResource.cache
+C:\Users\LICENCIATURAS\Downloads\PROGRAM\Kimberly093\Herencia_ID22127\obj\Debug\HERENCIA.csproj.CoreCompileInputs.cache

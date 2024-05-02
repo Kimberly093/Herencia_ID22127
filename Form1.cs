@@ -17,13 +17,16 @@ namespace HERENCIA
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void sumar_Click(object sender, EventArgs e)
         {
 
         }
 
-        private void label1_Click(object sender, EventArgs e)
+        private void limpiar_Click(object sender, EventArgs e)
         {
+            valor1.Clear();
+            valor2.Clear();
+            resultado
 
         }
 
